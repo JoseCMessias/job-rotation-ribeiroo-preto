@@ -7,7 +7,7 @@ namespace Job_Rotation.Models
 {
     public class SequenciaDeFibonacci
     {
-        public void DeFibonati()
+        public void DeFibonacci()
         {
             
             int num = 5;

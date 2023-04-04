@@ -29,7 +29,7 @@ resultadoDaInversoo.ResultadoInventendoStrings();
 
 Console.WriteLine("--------------------------");
 SequenciaDeFibonacci resultadodeFibonati = new SequenciaDeFibonacci();
-resultadodeFibonati.DeFibonati();
+resultadodeFibonati.DeFibonacci();
 // 5 pertence à sequência de Fibonacci.  
 
 Console.WriteLine("--------------------------");
