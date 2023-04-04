@@ -1,0 +1,15 @@
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.AssemblyInfoInputs.cache
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.AssemblyInfo.cs
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\bin\Debug\net6.0\Job Rotation.exe
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\bin\Debug\net6.0\Job Rotation.deps.json
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\bin\Debug\net6.0\Job Rotation.runtimeconfig.json
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\bin\Debug\net6.0\Job Rotation.dll
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\bin\Debug\net6.0\Job Rotation.pdb
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.dll
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\refint\Job Rotation.dll
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.pdb
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\Job Rotation.genruntimeconfig.cache
+C:\Users\josec\OneDrive\Área de Trabalho\Job Rotation\obj\Debug\net6.0\ref\Job Rotation.dll
