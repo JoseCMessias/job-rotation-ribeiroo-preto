@@ -28,8 +28,8 @@ resultadoDaInversoo.ResultadoInventendoStrings();
 // String invertida: olpmexe
 
 Console.WriteLine("--------------------------");
-SequenciaDeFibonacci resultadodeFibonati = new SequenciaDeFibonacci();
-resultadodeFibonati.DeFibonacci();
+SequenciaDeFibonacci resultadodeFibonacci = new SequenciaDeFibonacci();
+resultadodeFibonacci.DeFibonacci();
 // 5 pertence à sequência de Fibonacci.  
 
 Console.WriteLine("--------------------------");
